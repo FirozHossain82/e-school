@@ -1,0 +1,330 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  background: #fff;
+  color: #666666;
+
+  
+}
+
+
+p {
+  padding: 0;
+  margin: 0 0 30px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+.header-part{
+  background: #F0FFF0; 
+  width: 1440px;
+  height: 576px;
+  left: 0px;
+  top: 0px;
+  background: #F0FFF0;
+  
+}
+
+.logo{
+    width: 140px;
+}
+
+.nav-link.btn{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  padding: 6px 32px;
+  border-radius: 50px;
+  transition: .5s;
+  margin-left:5px;
+  color:#fff !important;
+  background: #18d26e;
+  position: static;
+  line-height: 19px;
+  display: inline-block;
+
+}
+
+.nav-link.btn:hover{
+  background: #fff;
+  color:#18d26e !important;
+  border:2px solid #18d26e;
+} 
+/*end nav*/
+
+
+.header-body-left .text{
+      color: #FD511A;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 24px;  
+      font-family: Poppins;
+}
+
+.left-text{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 70px;
+  color: #000000;
+}
+
+span{
+  color:#18d26e; 
+}
+
+.header-body-left p{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 36px; 
+  color: #6C6B6B;
+}
+
+ .btn-get-started {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 32px;
+  border-radius: 50px;
+  transition: .5s;
+  margin:0px;
+  color: #fff;
+  background: #18d26e;
+  
+}
+
+.btn-get-started:hover {
+  background: #fff;
+  color:#18d26e !important;
+  border:2px solid #18d26e;
+  text-decoration: none;
+}
+
+
+.container.row{
+    margin-top: 50px;
+    padding-bottom: 60px;
+} /*head-part-end*/
+
+.container.Books{
+margin-top: 50px;
+}
+
+.Books .cat img{
+
+  width: 66px;
+  height: 85px;
+  
+  
+
+}
+.card-body .card-title{
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 36px;
+  color: #413960;
+  margin-left:30px ;
+ 
+}
+
+.card-body .card-text{
+  color: #585859;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 24px;
+  margin-left:45px ;
+}
+
+.card-title-1{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 36px;
+  color: #413960;
+  margin-left:48px ;
+   
+}
+
+.card-text-1{
+  color: #585859;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 24px;
+  margin-left:48px ;
+}
+
+.cat{
+  transition: 1s;
+  background: #F8FFFB;
+  border-radius: 10px;
+  width: 270px;
+  height: 270px;
+  padding-top: 50px;
+  
+}
+
+.cat:hover{
+  background: #FFFFFF;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.795);
+  border-radius: 18px;
+}
+.container.row{
+  background: #F0FFF0;
+}
+
+
+
+
+/*card*/
+#course .card-title{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #413960;
+  margin-left:5px;
+ 
+}
+
+#course .card-text{
+  color: #585859;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left:5px; 
+}
+#course .card-deck .card img{
+  border-radius: 11px;
+  margin:15px 15px 5px 15px;
+  width: 90%;
+}
+
+#course .card-deck .card{
+  background: #FFFFFF;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 18px;
+  border: none;
+  height: 483px;
+  transition: .5s;
+}
+
+#course .card-deck .card:hover{
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.555);
+  border-radius: 20px;
+}
+
+.testimonal-part{
+  padding-top: 50px;
+  padding-block: 150px;
+  
+}
+
+#Testimonal .testimonal-img{
+  width: 100px;
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 323px;
+  top: 57px;
+
+}
+
+#Testimonal .testimonal-pra{
+  color: #000000;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  position: absolute;
+  width: 580px;
+  height: 90px;
+  left: 45px;
+  top: 67px;
+
+}
+
+
+
+
+#footer-part .container{
+ 
+  width: 1440px;
+  height: 369px;
+  left: 0px;
+  margin-top: 100px;
+  background: #282531;
+}
+
+
+
+
+#footer-part .footer-left p{
+  color: #FFFFFF;
+      width: 364px;
+      height: 60px;
+      left: 143px;
+      top: 2068px;
+      font-family: Poppins;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 30px;
+      
+}
+
+.footer-right ul{
+  list-style-type: none;
+}
+
+.footer-right ul li {
+  text-decoration: none;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFFFFF;
+}
+
+.footer-right{
+  margin-top: 100px;
+  
+}
+
+.footer-right .footer-hed{
+color:#FFFFFF;
+font-weight:bold;
+}
+
+.footer-botum-pra{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  color: #CDCDCD;
+  padding: 25px;
+
+}
